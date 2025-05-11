@@ -1,7 +1,3 @@
-setuptools>=77
-wheel
-build
-
 
 ﻿acres==0.3.0
 aiohappyeyeballs==2.6.1
